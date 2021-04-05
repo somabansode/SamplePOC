@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SamplePOC.Repository/obj
+/SamplePOC.WebApi/obj
+/SamplePOC.MVC/obj
+/SamplePOC.Domain/obj
